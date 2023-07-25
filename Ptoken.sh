@@ -17,6 +17,15 @@
      "hash":"9807148a4360e0d066b4"
     }
   ],
+  "bhtunnelplus" : [
+    {
+     "User":"bhtunnelplus",
+     "status":"online",
+     "password":"bhtunnelplus",
+     "domain":"bhtunnelplus.xyz",
+     "hash":"9807148a4360e0d066b4"
+    }
+  ],
    "lemonvipvpn" : [
     {
      "User":"lemonvipvpn",
